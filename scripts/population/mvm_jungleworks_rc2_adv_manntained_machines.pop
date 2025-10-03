@@ -2163,7 +2163,7 @@ population
 			Where	spawnbot
 			TFBot
 				{
-					Name	"Giant Brass Beast heavy"
+					Name	"Giant Brass Beast Heavy"
 					Template	T_TFBot_Giant_Heavyweapons_BrassBeast
 					ClassIcon	heavy_brass_nys_giant
 					Item	"the team captain"
