@@ -1,5 +1,9 @@
 // lite
 
+// BRAINDAWG 9/24/25:
+// encore wave 4 has a vscript error that crashes the server with this
+Convars.SetValue("sig_util_vscript_send_output_to_admins", 0)
+
 ::ROOT <- getroottable()
 ::MAX_CLIENTS <- MaxClients().tointeger()
 
